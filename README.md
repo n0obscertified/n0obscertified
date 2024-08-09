@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I've been coding in primarily in Javascript, swift , Java and Kotlin for over 4 years.
+- 🔭 I've been coding primarily in Javascript, swift , Java and Kotlin for over 4 years.
 - 🌱 I’m currently learning webrtc and ffmpeg.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
